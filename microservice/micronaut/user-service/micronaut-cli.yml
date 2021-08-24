@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.microservice
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, mariadb, maven, netty-server, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, testcontainers, yaml]
